@@ -38,7 +38,7 @@
 
    显示标定窗口：
 
-   ![标定窗口](./pictures/camera_calibration1.png)
+   ![contents](./pictures/camera_calibration1.png)
 
    
 
